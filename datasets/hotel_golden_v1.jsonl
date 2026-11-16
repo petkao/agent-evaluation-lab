@@ -1,0 +1,4 @@
+
+{"test_id":"hotel_001","dataset_version":"v1.0","user_input":"Find a hotel in Tokyo under $200 per night and check the weather in Tokyo.","expected_tool_calls":[{"name":"search_hotels","args":{"city":"Tokyo","max_price":200}},{"name":"get_weather","args":{"city":"Tokyo"}}]}
+{"test_id":"hotel_002","dataset_version":"v1.0","user_input":"Find a hotel in Paris under $150 per night.","expected_tool_calls":[{"name":"search_hotels","args":{"city":"Paris","max_price":150}}]}
+{"test_id":"hotel_003","dataset_version":"v1.0","user_input":"Check the weather in London.","expected_tool_calls":[{"name":"get_weather","args":{"city":"London"}}]}

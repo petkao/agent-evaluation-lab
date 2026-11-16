@@ -1,0 +1,25 @@
+{
+  "dataset_version": "v2.0",
+  "status": "approved",
+  "approver": "dataset_owner",
+  "approval_reference": "interactive_batch_approval_v2",
+  "approved_at": "2026-11-15T23:58:54.034089+00:00",
+  "approval_policy": "human_batch_review_v1",
+  "candidate_sha256": "cd210c01e80d228af5b145f09eb6de833d468d35dd944b625d5430132c81d055",
+  "review_sha256": "66616dd7937c06dce781384da980fd1fa44a0da9fe963b071b5aae03c7781440",
+  "manifest_sha256": "6e1bf1b3132d20c022de8f0ed5f3fe1c7fd2e9fba007d122d7bb389ee98f7300",
+  "golden_sha256": "9f36af77a2f419ec5034508ed956419caf5a1fef30e3e3bed7a8c1e38c98ffae",
+  "approved_count": 10,
+  "approved_test_ids": [
+    "synthetic_001",
+    "synthetic_002",
+    "synthetic_003",
+    "synthetic_004",
+    "synthetic_005",
+    "synthetic_006",
+    "synthetic_007",
+    "synthetic_008",
+    "synthetic_009",
+    "synthetic_010"
+  ]
+}
